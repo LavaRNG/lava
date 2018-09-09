@@ -1,6 +1,11 @@
 # Lava
 > Decentralized Random Number Generation
 
+## Addresses
+
+* [Creation Transaction Address](https://rinkeby.etherscan.io/tx/0x9d3d95c820c81dc00241cb34e125e785ed7c5299d3b2197b8f460f1a21f59231)
+* [Rinkeby Address](https://rinkeby.etherscan.io/address/0xab338db878f7ce6f2b9bdc90df700ebb0b88a30e#code)
+
 ## Technical Summary
 
 1. Some players, *randers*, submit random numbers, one at a time (plus a fixed deposit and gas costs for each submitted random number). Every submitted random number is pushed to a (cyclical) fixed-sized array. The rander whose random number gets booted off of this array upon a random number submission gets their deposit returned. Other players, *preders*, submit a prediction window (an array of predictions) along with 1 wager per unit length in the array (1 deposit per prediction). Finally, there are *customers*, who pay the smart contract a fixed amount _C_ to automatically have a random number sent to their address or some location of their choosing.
