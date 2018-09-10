@@ -30,10 +30,6 @@ Read these to understand why a rander, under pressure from preders, is incentivi
 
 * https://math.stackexchange.com/questions/1156404/entropy-of-a-uniform-distribution
 
-## Contributors
-
-Kenny Peluso
-
 ## License
 
 MIT
