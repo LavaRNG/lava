@@ -3,7 +3,7 @@
 
 ## Addresses
 
-* [Creation Transaction Address](https://rinkeby.etherscan.io/tx/0x9d3d95c820c81dc00241cb34e125e785ed7c5299d3b2197b8f460f1a21f59231)
+* [Rinkeby Creation Transaction Address](https://rinkeby.etherscan.io/tx/0x9d3d95c820c81dc00241cb34e125e785ed7c5299d3b2197b8f460f1a21f59231)
 * [Rinkeby Address](https://rinkeby.etherscan.io/address/0xab338db878f7ce6f2b9bdc90df700ebb0b88a30e#code)
 
 ## Technical Summary
