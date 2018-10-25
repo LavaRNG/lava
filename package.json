@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kpeluso/lava#readme",
   "dependencies": {
-    "openzeppelin-solidity": "1.11.0"
+    "openzeppelin-solidity": "1.11.0",
+    "react-materialize": "^2.4.6"
   }
 }
